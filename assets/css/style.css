@@ -1,0 +1,40 @@
+h1{
+    font-size: 48px;
+    font-family: tahoma;
+    background:rgb(70, 69, 69);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+h2{
+    text-align: right;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    color: lightgrey;
+    text-shadow: -2px -2px black;
+}
+main p{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-underline-offset: -1px;
+}
+section p{
+    text-transform: lowercase;
+    text-decoration: underline;
+}
+ul{
+    margin-left: 10px;
+    padding-left: 100px;
+    padding-right: 80px;
+    background: lightgrey;
+}
+
+ul li{
+    background: darkgrey;
+    padding-left: 30px;
+}
+
+p{
+    margin-left: 30px;
+}
